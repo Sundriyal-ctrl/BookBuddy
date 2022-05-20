@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/BookBuddy/static/css/main.98e93948.css",
+    "main.js": "/BookBuddy/static/js/main.6819bf4e.js",
+    "static/js/787.cfd8f164.chunk.js": "/BookBuddy/static/js/787.cfd8f164.chunk.js",
+    "static/media/Java.jpg": "/BookBuddy/static/media/Java.65cb7e1c7670def0514e.jpg",
+    "static/media/w.jpg": "/BookBuddy/static/media/w.777049b938dd99dbb763.jpg",
+    "static/media/Maths12.jpg": "/BookBuddy/static/media/Maths12.ddbf1aa558d6da9d9c96.jpg",
+    "static/media/wp.jpg": "/BookBuddy/static/media/wp.40c696bd5ae8dd0e290e.jpg",
+    "static/media/Physics12.jpg": "/BookBuddy/static/media/Physics12.5581262249f44cd27517.jpg",
+    "index.html": "/BookBuddy/index.html",
+    "main.98e93948.css.map": "/BookBuddy/static/css/main.98e93948.css.map",
+    "main.6819bf4e.js.map": "/BookBuddy/static/js/main.6819bf4e.js.map",
+    "787.cfd8f164.chunk.js.map": "/BookBuddy/static/js/787.cfd8f164.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.98e93948.css",
+    "static/js/main.6819bf4e.js"
+  ]
+}
